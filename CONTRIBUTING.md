@@ -1,4 +1,4 @@
-# Contributing to Simple Interest Calculator
+# Contributing to simple interest calculator project
 Simple Interest Calculator as the name suggests, is a calculator that helps people to estimate the percentage charge on the principal sum for a specific period.
 
 It's a simple open source project, but it can make a big difference in people's lives, especially with your contribution.
